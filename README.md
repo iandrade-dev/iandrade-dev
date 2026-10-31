@@ -8,4 +8,4 @@ Software engineer in Florianópolis, Brazil, coding for over ten years. Today I 
 
 **Stack:** Node.js · TypeScript · NestJS · PostgreSQL · MongoDB · Docker · AWS · Azure
 
-[LinkedIn](https://www.linkedin.com/in/iandradedev/) · [X](https://x.com/Iandrade23)
+[LinkedIn](https://www.linkedin.com/in/iandradedev/) · [X](https://x.com/iandradedev) · [Instagram](https://www.instagram.com/iandradedev/)
